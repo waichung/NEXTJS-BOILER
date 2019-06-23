@@ -53,7 +53,7 @@ const Header = () => {
                       <input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In" />
                       <input type="hidden" name="redirect_to" value="http://asian-bet.local/" />
                     </p>
-                    <a class="register" href="/wp-login.php?action=lostpassword">Register</a>
+                    <a className="register" href="/register">Register</a>
                   </form>
                 </div>
               </div>
