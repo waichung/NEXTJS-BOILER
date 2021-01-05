@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "eslint-plugin-react": "^7.7.0",
     "lodash": "^4.17.15",
     "next": "^8.1.0",
